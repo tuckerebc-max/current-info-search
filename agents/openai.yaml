@@ -1,0 +1,4 @@
+interface:
+  display_name: "Current Info Search"
+  short_description: "Verify fast-changing facts with web search"
+  default_prompt: "Use $current-info-search to verify this question with current web sources."
